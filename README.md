@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 For Work ?  yasintop34394@gmail.com   </br>     Also you can try : steam3956@gmail.com </br>
 For Game ? https://steamcommunity.com/profiles/76561198263880579/  </br>
-Social Media ? https://www.instagram.com/je.cosmo/ </br>
+Social Medias  https://www.instagram.com/je.cosmo/ </br>
 https://www.linkedin.com/in/yasin-top-22a3a71a1
 <!---
 PhantomREX/PhantomREX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
