@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Yasin  @PhantomREX
-- 👀 I’m interested in C, C#, Java, HTML, CSS 
-- 🌱 I’m currently learning  Java and Json
--  *   I love the open source 
-- 💞️ I’m looking to collaborate on BMW E36
+-      👋 Hi, I’m Yasin  @PhantomREX
+- 👀 I started with Html, I started learning was C#
+- 🌱 In my undergraduate education, I saw an introduction to algorithm, java, c#, database (oracle), html, css technologies
+- * I’m interested in C#, JavaScript, Bootstrap, .NET things.
+- * I’m currently learning these.  
+-   I love the open source 
 - 📫 How to reach me ...
   yasintop34394@gmail.com   </br>     Also you can try : steam3956@gmail.com </br>
 For Game ? https://steamcommunity.com/profiles/76561198263880579/  </br>
