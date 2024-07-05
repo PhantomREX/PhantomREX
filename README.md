@@ -1,7 +1,9 @@
 -      👋 Hi, I’m Yasin  @PhantomREX
-- 👀 I started with Html, I started learning was C#
+- 👀 I started learning was C#
 - 🌱 In my undergraduate education, I saw an introduction to algorithm, java, c#, database (oracle), html, css technologies
-- * I’m interested in C#, JavaScript, Bootstrap, .NET things.
+- * I’m interested in C#, Bootstrap, .NET things.
+- * Python data mining and visualization projects. 
+- * ERP intern with Delphi developing.
 - * I’m currently learning these.  
 -   I love the open source 
 - 📫 How to reach me ...
